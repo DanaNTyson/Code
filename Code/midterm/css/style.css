@@ -1,0 +1,256 @@
+body {
+	background: url(http://goo.gl/6LUjjp);
+	width: 985px;
+	height: 1205px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin: 0 auto;
+}
+h1 {
+	font-size: 63px;
+	font-family: 'Crimson Text', serif;
+	color: #EDDBFF;
+	margin-top: 10px;
+}
+img {
+	height: 100px;
+	width: 120px;
+	margin-right: 25px;
+	margin-left: 20px;
+}
+.pic3 caption {
+	text-align: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+div .lateart img {
+	height: 150px;
+	width: 160px;
+}
+div .lateart li {
+	transition-duration: 0.6s;
+}
+div .lateart li:hover {
+	color: #9C6D8A;
+}
+div .articles img {
+	height: 150px;
+	width: 160px;
+}
+div .articles li {
+	transition-duration: 0.6s;
+}
+div .articles li:hover {
+	color: #9C6D8A;
+}
+div .container3 img {
+	height: 400px;
+	width: 600px;
+}
+div .container3 h3 {
+	font-size: 25px;
+	color: #071F23;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	font-family: 'Crimson Text', serif;
+}
+p .text {
+	z-index:100;
+    position:absolute;    
+    color:white;
+    font-size:24px;
+    font-weight:bold;
+    left:150px;
+    top:350px;
+}
+h2 {
+	font-size: 28px;
+	font-family: 'Quicksand', sans-serif;
+	font-style: bold;
+	margin-bottom: 5px;
+}
+div .container3 p {
+	margin-left: 20px;
+	margin-top: 25px;
+	margin-right: 20px;
+	font-size: 20px;
+	font-family: 'Quicksand', sans-serif;
+	display: block;
+}
+p a{
+	font-size: 20px;
+	margin-left: 20px;
+	color: #071F23;
+	font-family: 'Crimson Text', serif;
+	text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    transition-duration: 0.6s;
+}
+p a:hover {
+	color: #a6a6a6;
+	background-color: #151234; 
+} 
+
+div .container2 h3 {
+	font-size: 25px;
+	color: #071F23;
+	margin-bottom: 30px;
+	margin-left: 20px;
+	font-family: 'Crimson Text', serif;
+}
+div .container h3 {
+	font-size: 25px;
+	color: #071F23;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	font-family: 'Crimson Text', serif;
+}
+div .navigation ul {
+    list-style-type: none;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FCE4EE;
+    height: 53px;
+ }
+div .navigation li {
+	display: inline;
+	color: #071F23;
+	float: left;
+	padding: 10px;
+}
+li a {
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-family: 'Quicksand', sans-serif;
+    transition-duration: 0.6s;
+    color: #071F23;
+}
+li a:hover {
+    color: #8A8966;
+}
+.author {
+	float: left;
+	margin-left: 20px;
+}
+.date {
+	float: right;
+	margin-right: 50px;
+}
+.byline {
+	height: 30px;
+	width: 965px;
+}
+.text2 {
+	font-size: 18px;
+	margin-left: 20px;
+	color: #071F23;
+	font-family: 'Crimson Text', serif;
+	text-decoration: none;
+    display: inline-block;
+    transition-duration: 0.6s;
+}
+.text2:hover {
+	color: #8A8966;
+	background-color: #151234;
+}  
+.header {
+	background-color: #2197AB;
+	height: 172px;
+	width: 965;
+	padding-top: 30px;
+}
+.pic1 {
+	height: 400px;
+	width: 600px;
+	margin-left: 20px;
+	border-radius: 1%;
+}
+.pic2 {
+	height: 400px;
+	width: 600px;
+	margin-left: 20px;
+	border-radius: 1%;
+}
+.pic3 {
+	height: 400px;
+	width: 600px;
+	margin: 0 auto;
+	border-radius: 1%;
+	padding-bottom: 30px;
+}
+.wrapper {
+	height: 1205px;
+	width: 965px;
+	background-color: #DCCCFF;
+	box-shadow: 0px 2px 23px -2px #3E4040; 
+}
+.navigation {
+	height: 100px;
+	width: 965px;
+	text-align: left;
+	font-size: 28px;
+	float: left;
+	font-family: 'Quicksand', sans-serif;
+	color: #071F23;
+}
+.img {
+	height: 500px;
+	width: 600px;
+	float: left;
+}
+.image2 {
+	height: 500px;
+	width: 600px;
+	float: left;
+}
+.articles {
+	height: 400px;
+	width: 210px;
+	background-color: #EB88C0;
+	padding: 5%;
+	font-size: 25px;
+	text-align: left;
+	float: right;
+	font-family: 'Quicksand', sans-serif;
+	margin-right: 20px;
+	border-radius: 2%;
+	color: #071F23;
+	transition-duration: 0.6s;
+}
+.lateart {
+	height: 450px;
+	width: 225px;
+	background-color: #EB88C0;
+	padding: 4%;
+	font-size: 32px;
+	text-align: left;
+	float: right;
+	font-family: 'Quicksand', sans-serif;
+	margin-right: 20px;
+	border-radius: 2%;
+	color: #071F23;
+}
+.container {
+	margin-top: 25px;
+	width: 965px;
+	height: 1205px;
+}
+.container2 {
+	margin-top: 25px;
+	width: 965px;
+	height: 1205px;
+} 
+.container3 {
+	margin-top: 25px;
+	width: 965px;
+	height: 1205px;
+} 
+#lateart {
+	font-size: 28px;
+	font-family: 'Quicksand', sans-serif;
+	font-style: bold;
+}
