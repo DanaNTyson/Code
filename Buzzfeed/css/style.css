@@ -1,0 +1,26 @@
+h1 {
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+	color: #EE3322;
+	font-size: 62px;
+	margin: 20px;
+	margin-left: 50px;
+	letter-spacing: -5px;
+}
+.navbar ul {
+	float: left;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #EAEAEA;
+    height: 50px;
+    width: 1020px;
+ }
+.navbar li {
+	display: inline-block;
+	color: #111111;
+	float: left;
+	padding: 20px;
+	margin-left: 30px;
+	font-family: 'Montserrat', sans-serif;
+}
